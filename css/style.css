@@ -285,6 +285,7 @@ a, p{
 }
 .line_block > .one_people > .open {
 	display:block;
+	transition: all .3s ease-in;
 }
 /* --- кнопка закрити ---*/
 
